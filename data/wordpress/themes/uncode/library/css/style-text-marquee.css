@@ -1,0 +1,20 @@
+.un-text-marquee {
+  white-space: nowrap;
+}
+.un-text-marquee .marquee-original {
+  position: relative;
+}
+.un-text-marquee .marquee-original .marquee-original-core:after {
+  content: "\00a0 ";
+}
+.un-text-marquee .marquee-clone-wrap {
+  position: absolute;
+}
+.un-text-marquee .marquee-clone-wrap.wrap-prepended {
+  left: 0;
+  transform: translateX(-100%);
+}
+.un-text-marquee .marquee-clone-wrap.wrap-appended {
+  right: 0;
+  transform: translateX(100%);
+}

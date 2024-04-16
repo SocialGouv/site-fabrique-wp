@@ -1,0 +1,195 @@
+/*
+Theme Name: Uncode Child
+Description: Child theme for Uncode theme
+Author: Undsgn™
+Author URI: http://www.undsgn.com
+Template: uncode
+Version: 1.0.0
+Text Domain: uncode
+*/
+
+@font-face {
+    font-family: 'marianne-bold';
+    src: url('fonts/marianne-bold.eot');
+    src: url('fonts/marianne-bold.eot?#iefix') format('embedded-opentype'),
+         url('fonts/marianne-bold.woff2') format('woff2'),
+         url('fonts/marianne-bold.woff') format('woff'),
+         url('fonts/marianne-bold.ttf') format('truetype'),
+         url('fonts/marianne-bold.svg#mariannebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'marianne-bold_italic';
+    src: url('fonts/marianne-bolditalic.eot');
+    src: url('fonts/marianne-bolditalic.eot?#iefix') format('embedded-opentype'),
+         url('fonts/marianne-bolditalic.woff2') format('woff2'),
+         url('fonts/marianne-bolditalic.woff') format('woff'),
+         url('fonts/marianne-bolditalic.ttf') format('truetype'),
+         url('fonts/marianne-bolditalic.svg#mariannebold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'marianne-extrabold';
+    src: url('fonts/marianne-extrabold.eot');
+    src: url('fonts/marianne-extrabold.eot?#iefix') format('embedded-opentype'),
+         url('fonts/marianne-extrabold.woff2') format('woff2'),
+         url('fonts/marianne-extrabold.woff') format('woff'),
+         url('fonts/marianne-extrabold.ttf') format('truetype'),
+         url('fonts/marianne-extrabold.svg#marianneextrabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'marianne-light';
+    src: url('fonts/marianne-light.eot');
+    src: url('fonts/marianne-light.eot?#iefix') format('embedded-opentype'),
+         url('fonts/marianne-light.woff2') format('woff2'),
+         url('fonts/marianne-light.woff') format('woff'),
+         url('fonts/marianne-light.ttf') format('truetype'),
+         url('fonts/marianne-light.svg#mariannelight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'marianne-light_italic';
+    src: url('fonts/marianne-lightitalic.eot');
+    src: url('fonts/marianne-lightitalic.eot?#iefix') format('embedded-opentype'),
+         url('fonts/marianne-lightitalic.woff2') format('woff2'),
+         url('fonts/marianne-lightitalic.woff') format('woff'),
+         url('fonts/marianne-lightitalic.ttf') format('truetype'),
+         url('fonts/marianne-lightitalic.svg#mariannelight_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'marianne-medium';
+    src: url('fonts/marianne-medium.eot');
+    src: url('fonts/marianne-medium.eot?#iefix') format('embedded-opentype'),
+         url('fonts/marianne-medium.woff2') format('woff2'),
+         url('fonts/marianne-medium.woff') format('woff'),
+         url('fonts/marianne-medium.ttf') format('truetype'),
+         url('fonts/marianne-medium.svg#mariannemedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'marianne-medium_italic';
+    src: url('fonts/marianne-mediumitalic.eot');
+    src: url('fonts/marianne-mediumitalic.eot?#iefix') format('embedded-opentype'),
+         url('fonts/marianne-mediumitalic.woff2') format('woff2'),
+         url('fonts/marianne-mediumitalic.woff') format('woff'),
+         url('fonts/marianne-mediumitalic.ttf') format('truetype'),
+         url('fonts/marianne-mediumitalic.svg#mariannemedium_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+	    font-family: 'marianne-regular';
+	    src: url('fonts/marianne-regular.eot');
+	    src: url('fonts/marianne-regular.eot?#iefix') format('embedded-opentype'),
+             url('fonts/marianne-regular.woff2') format('woff2'),
+	         url('fonts/marianne-regular.woff') format('woff'),
+	         url('fonts/marianne-regular.ttf') format('truetype'),
+	         url('fonts/marianne-regular.svg#Ubuntu-r') format('svg');
+	    font-weight: normal;
+	    font-style: normal;
+
+	}
+
+
+
+@font-face {
+    font-family: 'marianne-italic';
+    src: url('fonts/marianne-regularitalic.eot');
+    src: url('fonts/marianne-regularitalic.eot?#iefix') format('embedded-opentype'),
+         url('fonts/marianne-regularitalic.woff2') format('woff2'),
+         url('fonts/marianne-regularitalic.woff') format('woff'),
+         url('fonts/marianne-regularitalic.ttf') format('truetype'),
+         url('fonts/marianne-regularitalic.svg#marianneitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'marianne-thin';
+    src: url('fonts/marianne-thin-webfont.eot');
+    src: url('fonts/marianne-thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/marianne-thin-webfont.woff2') format('woff2'),
+         url('fonts/marianne-thin-webfont.woff') format('woff'),
+         url('fonts/marianne-thin-webfont.ttf') format('truetype'),
+         url('fonts/marianne-thin-webfont.svg#mariannethin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'marianne-thin_italic-webfont';
+    src: url('fonts/marianne-thinitalic-webfont.eot');
+    src: url('fonts/marianne-thinitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/marianne-thinitalic-webfont.woff2') format('woff2'),
+         url('fonts/marianne-thinitalic-webfont.woff') format('woff'),
+         url('fonts/marianne-thinitalic-webfont.ttf') format('truetype'),
+         url('fonts/marianne-thinitalic-webfont.svg#mariannethin_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.main-container .row-container .single-top-padding {
+  padding-top: 8px;
+}
+.main-container .row-container .single-bottom-padding {
+  padding-bottom: 8px;
+}
+.main-container .row-container .single-left-padding {
+  padding-left: 8px;
+}
+.main-container .row-container .single-right-padding {
+  padding-right: 8px;
+}
+
+.main-container .row-container .double-top-padding {
+  padding-top: 16px;
+}

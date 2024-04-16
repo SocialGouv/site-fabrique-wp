@@ -1,0 +1,277 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Sliding Menu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-10 10:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: responsive-sliding-menu"
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:214
+msgid " to edit the menu parts"
+msgstr ""
+
+#. 1: Plugin name 2: Elementor
+#: admin/class-responsive-sliding-menu-elementor.php:204
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. 1: Plugin name 2: Elementor 3: Required Elementor version
+#. 1: Plugin name 2: PHP 3: Required PHP version
+#: admin/class-responsive-sliding-menu-elementor.php:228
+#: admin/class-responsive-sliding-menu-elementor.php:253
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: admin/partials/elementor/class-elementor-widgets-integration.php:39
+#, php-format
+msgid "%s Menu"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:179
+msgid "< 600px"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:178
+msgid "< 768px"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:177
+msgid "< 992px"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:171
+msgid "< 992px recommanded"
+msgstr ""
+
+#: public/class-responsive-sliding-menu-public.php:348
+#: admin/partials/responsive-sliding-menu-admin-display.php:544
+msgid "All "
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:176
+msgid "Always"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:425
+msgid "Background color"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:423
+msgid "Burger menu color"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:421
+msgid "Burger menu size"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:152
+msgid "Choose a menu"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:146
+msgid "Choose menu"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:236
+msgid "Choose the menu background color"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:212
+msgid "Click on "
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:19
+#: admin/partials/responsive-sliding-menu-admin-display.php:20
+#: admin/partials/responsive-sliding-menu-admin-display.php:247
+#: admin/partials/responsive-sliding-menu-admin-display.php:248
+msgid "Click to copy shortcode"
+msgstr ""
+
+#. Description of the plugin
+msgid "Creates an opening sideways menu. Guaranteed \"Wow\" effect!"
+msgstr ""
+
+#: admin/class-responsive-sliding-menu-elementor.php:206
+#: admin/class-responsive-sliding-menu-elementor.php:230
+msgid "Elementor"
+msgstr ""
+
+#: admin/class-responsive-sliding-menu-elementor.php:205
+#: admin/class-responsive-sliding-menu-elementor.php:229
+#: admin/class-responsive-sliding-menu-elementor.php:254
+msgid "Elementor Test Extension"
+msgstr ""
+
+#: admin/partials/elementor/class-elementor-widgets-integration.php:85
+msgid "Enable/disable"
+msgstr ""
+
+#: admin/partials/elementor/class-elementor-widgets-integration.php:93
+msgid "Enable?"
+msgstr ""
+
+#: public/class-responsive-sliding-menu-public.php:163
+#: public/class-responsive-sliding-menu-public.php:183
+#: admin/partials/responsive-sliding-menu-admin-display.php:331
+msgid "Go to "
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:418
+msgid "Hover color"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://lekcie.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://lekcie.com/plugins-wordpress"
+msgstr ""
+
+#: admin/class-responsive-sliding-menu-admin.php:161
+msgid "It only takes 1 min"
+msgstr ""
+
+#. Author of the plugin
+msgid "Lekcie"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:416
+msgid "Main color"
+msgstr ""
+
+#: admin/class-responsive-sliding-menu-admin.php:167
+msgid "Maybe later"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:210
+msgid "Menu Preview"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:420
+msgid "Mobile Menu"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:166
+msgid "Mobile menu"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:187
+msgid "Mobile menu icon"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:180
+msgid "Never"
+msgstr ""
+
+#: admin/partials/elementor/class-elementor-widgets-integration.php:97
+#: admin/partials/elementor/class-elementor-widgets-integration.php:100
+msgid "No"
+msgstr ""
+
+#: admin/class-responsive-sliding-menu-admin.php:168
+msgid "Nope, I don't want to help :("
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:220
+msgid "Other website"
+msgstr ""
+
+#: admin/class-responsive-sliding-menu-elementor.php:255
+msgid "PHP"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:398
+msgid "Please choose a menu"
+msgstr ""
+
+#: public/class-responsive-sliding-menu-public.php:231
+msgid ""
+"Please select a menu in the Responsive Sliding Menu plugin settings area"
+msgstr ""
+
+#: admin/class-responsive-sliding-menu-admin.php:166
+msgid "Post a review"
+msgstr ""
+
+#. Name of the plugin
+msgid "Responsive Sliding Menu"
+msgstr ""
+
+#: admin/class-responsive-sliding-menu-admin.php:131
+msgid "Settings"
+msgstr ""
+
+#: admin/class-responsive-sliding-menu-admin.php:90
+msgid "Shortcode copied"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:169
+msgid "Size screen from which the mobile menu is showed"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:427
+msgid "Text color"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:429
+msgid "Text hover color"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:414
+msgid "Text size"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:406
+msgid "Text Transform"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:190
+msgid ""
+"The chosen icon will not be displayed in the preview mode. It will still "
+"appear on your site."
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:238
+msgid ""
+"This option is only demonstrative. This will not change the background of "
+"your site's menu."
+msgstr ""
+
+#: admin/partials/elementor/class-elementor-widgets-integration.php:128
+msgid "This widget is not enabled."
+msgstr ""
+
+#: admin/partials/elementor/class-elementor-widgets-integration.php:103
+#, php-format
+msgid ""
+"Toggle this option if you want to enable or disable the Responsive Sliding "
+"Menu. You can edit settings in WordPress > %s Responsive Sliding menu %s"
+msgstr ""
+
+#: admin/partials/responsive-sliding-menu-admin-display.php:129
+msgid "Update successful"
+msgstr ""
+
+#: admin/class-responsive-sliding-menu-admin.php:163
+msgid ""
+"Wonderful! You have been using Responsive Sliding Menu for more than a week. "
+"<b>Help us</b> and tell us what you think"
+msgstr ""
+
+#: admin/partials/elementor/class-elementor-widgets-integration.php:96
+#: admin/partials/elementor/class-elementor-widgets-integration.php:99
+msgid "Yes"
+msgstr ""
