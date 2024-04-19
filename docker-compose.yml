@@ -6,8 +6,8 @@ services:
       context: ./docker/php
       args:
         - PHP_VERSION=${PHP_VERSION:-8.2}
-        - USER_ID=1000
-        - GROUP_ID=1000
+        - UID=1000
+        - GID=1000
     volumes:
       - wordpress:/var/www/bedrock/
       - ./data/wordpress/plugins:/var/www/bedrock/web/app/plugins
