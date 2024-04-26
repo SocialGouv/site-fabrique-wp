@@ -43,8 +43,6 @@ services:
       - "traefik.http.routers.wordpress.rule=Host(`${WORDPRESS_FQDN:-wordpress.dev.traefik.me}`)"
       - "traefik.http.routers.wordpress.tls=true"
 
-
-
   database:
     image: mariadb:latest
     restart: always
@@ -74,7 +72,6 @@ services:
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock:ro
 
-
 networks:
   wordpress:
   traefik:
@@ -82,4 +79,3 @@ networks:
 
 volumes:
   wordpress:
-    
